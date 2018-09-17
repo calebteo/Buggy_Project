@@ -1,0 +1,7 @@
+c:\users\caleb\onedrive\documents\visual studio 2015\Projects\Week 12 c_sharp\Week 12 c_sharp\bin\Debug\Week 12 c_sharp.exe.config
+G:\College\2nd Year\2E10\Week 12\Week 12 c_sharp\Week 12 c_sharp\bin\Debug\Week 12 c_sharp.exe.config
+G:\College\2nd Year\2E10\Week 12\Week 12 c_sharp\Week 12 c_sharp\bin\Debug\Week 12 c_sharp.exe
+G:\College\2nd Year\2E10\Week 12\Week 12 c_sharp\Week 12 c_sharp\bin\Debug\Week 12 c_sharp.pdb
+G:\College\2nd Year\2E10\Week 12\Week 12 c_sharp\Week 12 c_sharp\obj\Debug\Week 12 c_sharp.csprojResolveAssemblyReference.cache
+G:\College\2nd Year\2E10\Week 12\Week 12 c_sharp\Week 12 c_sharp\obj\Debug\Week 12 c_sharp.exe
+G:\College\2nd Year\2E10\Week 12\Week 12 c_sharp\Week 12 c_sharp\obj\Debug\Week 12 c_sharp.pdb
